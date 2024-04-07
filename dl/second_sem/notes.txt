@@ -1,0 +1,18 @@
+Это анимация работы с нейросетями, возможно вам стоит включить их в свои материалы.:
+CPU:
+https://habrastorage.org/getpro/habr/post_images/963/029/620/96302962031a0a23ecf34b868d194161.gif
+GPU:
+https://habrastorage.org/getpro/habr/post_images/fbb/bcb/17b/fbbbcb17b7732e20d2658d5e76023beb.gif
+TPU:
+https://habrastorage.org/getpro/habr/post_images/9ec/de3/fc6/9ecde3fc6d69116db89aacd83bdf15e5.gif
+
+the lection:
+https://apps.skillfactory.ru/learning/course/course-v1:Skillfactory+URFUML2023+SEP2023/block-v1:Skillfactory+URFUML2023+SEP2023+type@sequential+block@c85817953a594b0fb2a835481389eaf6/block-v1:Skillfactory+URFUML2023+SEP2023+type@vertical+block@433edf74339f44a78e45b17fb96defa2
+
+the lection link:
+https://drive.google.com/file/d/1KP18XCa1chRgbqXcIauEeiIKbs4914mG/view?usp=sharing
+
+
+
+qua metrics:
+https://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html
