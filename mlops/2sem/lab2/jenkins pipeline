@@ -1,0 +1,18 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Create DataFrame') {
+            steps {
+                echo "-----Create dataframe-----"
+                sh '/home/project/mlops/lab2/env/bin/python3 /home/project/mlops/lab2/create_dataset.py'
+            }
+        }
+        stage('Create Model') {
+            steps {
+                echo "-----Create model to get user clusters-----"
+                sh '/home/project/mlops/lab2/env/bin/python3 /home/project/mlops/lab2/make_prediction.py'
+            }
+        }
+    }
+}
